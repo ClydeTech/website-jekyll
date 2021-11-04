@@ -17,7 +17,7 @@ Information we collect includes both information you knowingly and actively prov
 
 Log Data
 
-When you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your device’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, other details about your visit, and technical details that occur in conjunction with any errors you may encounter.
+When you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your deviceâ€™s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, other details about your visit, and technical details that occur in conjunction with any errors you may encounter.
 
 
 Please be aware that while this information may not be personally identifying by itself, it may be possible to combine it with other data to personally identify individual persons.
@@ -54,7 +54,7 @@ We keep your personal information only for as long as we need to. This time peri
 
 However, if necessary, we may retain your personal information for our compliance with a legal, accounting, or reporting obligation or for archiving purposes in the public interest, scientific, or historical research purposes or statistical purposes.
 
-Children’s Privacy
+Childrenâ€™s Privacy
 
 We do not aim any of our products or services directly at children under the age of 13, and we do not knowingly collect personal information about children under 13.
 
@@ -67,7 +67,7 @@ Your Rights and Controlling Your Personal Information
 You always retain the right to withhold personal information from us, with the understanding that your experience of our website may be affected. We will not discriminate against you for exercising any of your rights over your personal information. If you do provide us with personal information you understand that we will collect, hold, use and disclose it in accordance with this privacy policy. You retain the right to request details of any personal information we hold about you.
 
 
-If we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide the personal information to us.
+If we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such personâ€™s consent to provide the personal information to us.
 
 
 If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time. We will provide you with the ability to unsubscribe from our email-database or opt out of communications. Please be aware we may need to request specific information from you to help us confirm your identity.
