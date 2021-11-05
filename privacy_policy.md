@@ -4,7 +4,7 @@ title: "Privacy Policy"
 permalink: /privacy-policy/
 ---
 
-### Privacy Policy
+#### Privacy Policy
 
 Your privacy is important to us. It is Clyde Technology's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, https://clydetechnology.com, and other sites we own and operate.
 
