@@ -60,8 +60,6 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
-kramdown:
-  hard_wrap: true
 
 collections:
   - services
