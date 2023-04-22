@@ -9,10 +9,10 @@ description: "In the event of a security incident, our expert incident response 
 
 Key features:
 
-* 24/7 emergency response to security incidents
-* Expert analysis to determine the root cause and extent of the breach
-* Containment and eradication of threats
-* Recovery and restoration of affected systems and data
+* 24/7 emergency response to security incidents  
+* Expert analysis to determine the root cause and extent of the breach  
+* Containment and eradication of threats  
+* Recovery and restoration of affected systems and data  
 * Post-incident review and recommendations for future prevention"
 
 ---

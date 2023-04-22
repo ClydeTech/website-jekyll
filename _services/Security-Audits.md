@@ -9,10 +9,10 @@ description: "Our security audits provide a comprehensive assessment of your IT 
 
 Key features:
 
-* Identification of security vulnerabilities and risks
-* Assessment of network, applications, and system configurations
-* Compliance with industry-specific regulations and standards
-* Detailed reports and actionable recommendations
+* Identification of security vulnerabilities and risks  
+* Assessment of network, applications, and system configurations  
+* Compliance with industry-specific regulations and standards  
+* Detailed reports and actionable recommendations  
 * Ongoing support and guidance for remediation"
 
 ---

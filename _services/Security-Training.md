@@ -9,10 +9,10 @@ description: "Our security training programs are designed to equip your employee
 
 Key features:
 
-* Customized training programs tailored to your organization's needs
-* Interactive workshops and practical exercises
-* Focus on real-world scenarios and emerging threats
-* Continuous learning through online resources and support
+* Customized training programs tailored to your organization's needs  
+* Interactive workshops and practical exercises  
+* Focus on real-world scenarios and emerging threats  
+* Continuous learning through online resources and support  
 * Post-training assessment and follow-up"
 
 ---

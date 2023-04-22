@@ -9,10 +9,10 @@ description: "Our managed security services offer continuous monitoring and mana
 
 Key features:
 
-* 24/7 security monitoring and threat detection
-* Proactive incident response and remediation
-* Regular vulnerability assessments and security audits
-* Compliance with industry-specific regulations and standards
+* 24/7 security monitoring and threat detection  
+* Proactive incident response and remediation  
+* Regular vulnerability assessments and security audits  
+* Compliance with industry-specific regulations and standards  
 * Security policy and procedure development and implementation"
 
 ---
