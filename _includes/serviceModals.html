@@ -14,7 +14,7 @@
                         <div class="modal-body">
                             <h2>{{ service.heading }}</h2>
                             <hr class="star-primary">
-                            <p>{{ service.description }}</p>
+                            <p>{{ service.description | markdownify }}</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
