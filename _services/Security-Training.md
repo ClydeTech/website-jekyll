@@ -1,19 +1,17 @@
 ---
 title: Security Training
-subtitle: Empower your employees with the knowledge and skills to identify, prevent, and respond to cyber threats.
+subtitle: Empower your employees with the knowledge and skills needed to protect your organization's critical assets and maintain security.
 layout: default
 modal-id: 4
-thumbnail: fa-stack
-heading: Security Training - Empower Your Employees to Combat Cyber Threats
-description: "Our security training programs are designed to equip your employees with the knowledge and skills they need to identify, prevent, and respond to cyber threats. Through a combination of engaging workshops, hands-on exercises, and practical resources, our expert trainers will ensure that your team is well-prepared to maintain the security of your organization's critical assets.
+thumbnail: fa-chalkboard-teacher
+heading: Security Training - Educate and Empower Your Employees
+description: "Our security training programs are designed to educate your employees on the latest security threats, best practices, and preventive measures. We offer customized training solutions tailored to your organization's specific needs, helping you build a strong security culture and maintain a high level of protection.
 
 Key features:
-
-Customized training programs tailored to your organization's needs
-Engaging workshops and hands-on exercises
-Comprehensive coverage of the latest cyber threats and best practices
-Practical resources to support ongoing learning and development
-Expert trainers with real-world experience in cybersecurity"
+- Customized training programs
+- Engaging, interactive content
+- Real-world scenarios and simulations
+- Ongoing training and support
+- Certifications and assessments to measure progress"
 
 ---
-

@@ -1,0 +1,7 @@
+.service-link {
+    text-decoration: none;
+    color: inherit;
+}
+.service-link:hover {
+    color: inherit;
+}

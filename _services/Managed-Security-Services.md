@@ -3,7 +3,7 @@ title: Managed Security Services
 subtitle: Continuous protection from evolving threats through proactive monitoring and management of your security systems.
 layout: default
 modal-id: 3
-thumbnail: fa-stack
+thumbnail: fa-lock
 heading: Managed Security Services - Continuous Protection from Evolving Threats
 description: "Our managed security services offer continuous monitoring and management of your security systems, ensuring that your organization is always protected from the latest cyber threats. Our team of experts will proactively detect and respond to potential issues, minimizing the risk of security breaches and maintaining the integrity of your IT environment.
 
