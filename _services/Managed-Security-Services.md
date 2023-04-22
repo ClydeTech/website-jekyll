@@ -1,17 +1,18 @@
 ---
 title: Managed Security Services
-subtitle: Proactive security monitoring and management to safeguard your organization's assets and minimize risks.
+subtitle: Proactive monitoring and management of your security infrastructure to protect your business from threats.
 layout: default
 modal-id: 3
-thumbnail: fa-lock
-heading: Managed Security Services - Comprehensive Protection for Your Organization
-description: "Our managed security services provide continuous monitoring and management of your security infrastructure to safeguard your organization's assets and minimize risks. We offer a range of customizable services to meet your unique needs and ensure the highest level of protection.
+thumbnail: fa-shield-alt
+heading: Managed Security Services - Safeguard Your Business
+description: "Our managed security services offer continuous monitoring and management of your security infrastructure, ensuring that your business remains protected against threats.
 
 Key features:
-- 24/7 security monitoring and management
-- Customized security solutions
-- Vulnerability management
-- Threat intelligence and analysis
-- Security incident response and management"
+
+* 24/7 security monitoring and threat detection
+* Proactive incident response and remediation
+* Regular vulnerability assessments and security audits
+* Compliance with industry-specific regulations and standards
+* Security policy and procedure development and implementation"
 
 ---

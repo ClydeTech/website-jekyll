@@ -1,17 +1,18 @@
 ---
 title: Security Audits
-subtitle: Comprehensive assessment of your organization's security posture to identify vulnerabilities and minimize risks.
+subtitle: Comprehensive assessment of your IT infrastructure to identify vulnerabilities and improve security posture.
 layout: default
 modal-id: 1
 thumbnail: fa-search
-heading: Security Audits - Identify Vulnerabilities and Strengthen Your Security
-description: "Our security audits provide a comprehensive assessment of your organization's security posture, identifying vulnerabilities and potential risks. We work closely with you to develop a robust security plan to minimize these risks and protect your critical assets.
+heading: In-Depth Security Audits - Protect Your Business
+description: "Our security audits provide a comprehensive assessment of your IT infrastructure, identifying vulnerabilities and areas of improvement to enhance your overall security posture.
 
 Key features:
-- In-depth vulnerability assessments
-- Penetration testing
-- Security policy and procedure review
-- Compliance checks
-- Detailed reports and recommendations for improvement"
+
+* Identification of security vulnerabilities and risks
+* Assessment of network, applications, and system configurations
+* Compliance with industry-specific regulations and standards
+* Detailed reports and actionable recommendations
+* Ongoing support and guidance for remediation"
 
 ---
