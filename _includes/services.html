@@ -8,29 +8,49 @@
                 </div>
             </div>
             <div class="row text-center">
+                {% for service in site.services %}
+                <div class="col-md-4">
+                    <a href="#serviceModal{{ service.modal-id }}" class="service-link" data-toggle="modal">
+                        <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fa {{ service.thumbnail }} fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="service-heading">{{ service.title }}</h4>
+                        <p class="text-muted">{{ service.subtitle }}</p>
+                    </a>
+                </div>
+            {% endfor %}
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Test</h4>
-                    <p class="text-muted">Our team can test your existing systems to identify critical vulnerabilities that leave your business open to cyber attacks.</p>
+                    <h4 class="service-heading">Security Audits</h4>
+                    <p class="text-muted">Comprehensive assessments to identify and address potential vulnerabilities in your IT infrastructure.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Secure</h4>
-                    <p class="text-muted">Assist you in resolving critical security vulnerabilities and also develop a solution to prevent cyber attacks from taking your business offline.</p>
+                    <h4 class="service-heading">Incident Response</h4>
+                    <p class="text-muted">Rapid and effective response to mitigate the impact of security incidents and ensure swift recovery.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-book-open fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Train</h4>
-                    <p class="text-muted">Provide user training to your staff on how to stay secure and perform simulated cyber-attacks to keep your business prepared.</p>
+                    <h4 class="service-heading">Managed Security Services</h4>
+                    <p class="text-muted">Continuous monitoring and management of your security systems to safeguard your business from evolving threats.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-book-open fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Security Training</h4>
+                    <p class="text-muted">Empowering your employees with the knowledge and skills to identify, prevent, and respond to cyber threats.</p>
                 </div>
             </div>
         </div>

@@ -4,8 +4,11 @@ baseurl: /
 # Site settings
 title: Clyde Technology
 email: contact@clydetechnology.com
-description: "Clyde Technology are cyber security specialists providing services to businesses to help keep their systems secure."
+description: "Clyde Technology is a leading cybersecurity provider specializing in the protection of digital assets and infrastructure for businesses and individuals alike. Our team of dedicated professionals combines years of experience and industry know-how to deliver exceptional security solutions, helping clients navigate the complex digital world securely and confidently. From vulnerability assessments and penetration testing to incident response and risk management, Clyde Technology is your trusted partner in building a robust defense against evolving cyber threats."
+keywords: "Cyber Security"
 
+tagline: "Securing Your Digital World: Innovative Cybersecurity Solutions You Can Trust"
+intro_lead: "Welcome to Clyde Technology, where cutting-edge cybersecurity meets unparalleled expertise. Safeguard your digital assets and thrive in an ever-evolving online landscape with our comprehensive suite of services tailored to fit your unique needs."
 # Team names, titles and social links
 #people:
 #- name: Kay Garland
